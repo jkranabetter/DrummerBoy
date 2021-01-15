@@ -14,4 +14,4 @@ Features
 
 This project makes good use of the wav trigger from Sparkfun, an arduino mega, lots of 74hc595's, an 24LC256 for extra EEPROM memory, and a couple custom pcb's to hold everything together. Its proven to be a ton of fun to jam to.
 
-![Screenshot](drummachine_squared.jpg)
+![Screenshot](drummachine_cropped.jpg)
