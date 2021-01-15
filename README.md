@@ -1,7 +1,7 @@
 # DrummerBoy
 An 8 bit, Arduino based drum machine. Like a real drummer but this one stays in time and doesnt yell at you.
 
-Features
+## Features
 + 128 wav samples
 + save/load capeability
 + pattern linking
